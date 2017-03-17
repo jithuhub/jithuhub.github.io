@@ -179,9 +179,9 @@ h6,
   border-color: #597478 !important;
 }
 .btn-success {
-  background-color: #f2ede9;
-  border-color: #354a4b;
-  color: #000000;
+  background-color: #ea0650;
+  border-color: #ea0650;
+  color: #ffffff;
 }
 .btn-success:hover,
 .btn-success:focus,
@@ -194,9 +194,9 @@ h6,
 }
 .btn-success.disabled,
 .btn-success:disabled {
-  color: #000000 !important;
-  background-color: #f2ede9 !important;
-  border-color: #354a4b !important;
+  color: #ffffff !important;
+  background-color: #ea0650 !important;
+  border-color: #ea0650 !important;
 }
 .btn-warning {
   background-color: #f3c649;
