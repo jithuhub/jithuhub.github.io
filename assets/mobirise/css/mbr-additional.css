@@ -148,9 +148,9 @@ h6,
 .btn-exploro.focus,
 .btn-exploro:active,
 .btn-exploro.active {
-  color: #ffffff;
-  background-color: #354a4b;
-  border-color: #354a4b;
+  color: #000000;
+  background-color: #f2ede9;
+  border-color: #f2ede9;
 }
 .btn-exploro.disabled,
 .btn-exploro:disabled {
