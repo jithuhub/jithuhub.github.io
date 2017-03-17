@@ -139,9 +139,9 @@ h6,
   border-color: #94ada8 !important;
 }
 .btn-exploro {
-  background-color: #f2ede9;
-  border-color: #f2ede9;
-  color: #000000;
+  background-color: #ea0650;
+  border-color: #ea0650;
+  color: #ffffff;
 }
 .btn-exploro:hover,
 .btn-exploro:focus,
@@ -154,9 +154,9 @@ h6,
 }
 .btn-exploro.disabled,
 .btn-exploro:disabled {
-  color: #000000 !important;
-  background-color: #f2ede9 !important;
-  border-color: #354a4b !important;
+  color: #ffffff !important;
+  background-color: #ea0650 !important;
+  border-color: #ea0650 !important;
 }
 .btn-info {
   background-color: #f2ede9;
